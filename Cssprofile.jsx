@@ -293,12 +293,55 @@ const Cssprofile=()=>{
 
 
 		</div>
+
+	<div class="logo">
+			<div class="logo_center">
+				<div class="logo_in">
+					<div class="logo1">
+						<div class="logo2">
+							<div class="logo3">
+								<div class="logo4"></div>
+					
+								
+							</div>
+							
+						</div>
+						
+					</div>
+				
+					
+				
+				</div>
+
+				
+			</div>
+			
+		</div>
+
+		<div class="test5">
+			<div class="test5_center">
+				<div class="fish">
+					<div class="fish_eye">
+						
+					</div>
+					
+				</div>
+
+	 			
+			</div>
+			
+		</div>
+		<div class="bubble_main">
+		<div>
+			<div class="bubble_left">
+			</div>
+			<div class="bubble_right">
+			</div>
+			
+		</div>
+			
+		</div>
 		
-
-
-
-
-
 	</>)
 }
 
